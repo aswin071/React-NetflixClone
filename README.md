@@ -1,3 +1,6 @@
+Welcome to the React-Netflix Clone repository! This project is a web application built with React.js, offering a highly interactive and visually appealing user interface reminiscent of the Netflix streaming platform.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
